@@ -1,8 +1,6 @@
 # RiskAssess
 
-Here's a sample README for your disease prediction system:
 
----
 
 # Disease Prediction System
 
